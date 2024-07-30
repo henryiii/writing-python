@@ -1,0 +1,12 @@
+[project]
+name = "05"
+version = "0.1.0"
+description = "Add a short description here"
+authors = ["Henry Schreiner <henryschreineriii@gmail.com>"]
+channels = ["conda-forge"]
+platforms = ["osx-64"]
+
+[tasks]
+
+[dependencies]
+click = ">=8.1.7,<9"
