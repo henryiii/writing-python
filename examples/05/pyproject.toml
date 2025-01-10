@@ -1,0 +1,8 @@
+[project]
+name = "example"
+version = "0.1.0"
+dependencies = ["textual-demo"]
+requires-python = ">=3.12"
+
+[dependency-groups]
+dev = ["pytest"]

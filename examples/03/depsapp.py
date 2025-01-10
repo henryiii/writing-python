@@ -1,4 +1,4 @@
-#!/usr/bin/env pipx run
+#!/usr/bin/env uv run
 
 # /// script
 # dependencies = [ "click" ]
